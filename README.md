@@ -1,7 +1,7 @@
 ### Comment Module
 A comment box with nested replies. Perfect for practicing positioning. 
 
-![](Design/Comment Template - Desktop View.png)
+![](https://raw.githubusercontent.com/McLaren-College/comment-module-design-starter/master/Design/Comment%20Template%20-%20Desktop%20View.png)
 
 
 **Background gradient:**
